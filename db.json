@@ -1,0 +1,75 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "The Latest MacBook Models: A Buyer's Guide",
+            "content": "Thinking of upgrading your laptop? Explore the latest MacBook models and find the perfect one to suit your needs.\n\n1. MacBook Air: Ideal for everyday use with its lightweight design and long battery life.\n2. MacBook Pro 13-inch: Power and portability combined, perfect for professionals and students alike.\n3. MacBook Pro 16-inch: Experience ultimate performance with a larger display and advanced features.\n\nWhether you need a laptop for work, school, or creative projects, there's a MacBook for you. Compare specs, features, and prices to make an informed decision and elevate your computing experience!",
+            "excerpt": "Explore the latest MacBook models and find the perfect one to suit your needs.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "latest-macbook-models-buyers-guide"
+        },
+        {
+            "id": 2,
+            "title": "iPhone Buying Tips: How to Choose the Right Model",
+            "content": "With a wide range of iPhone models available, finding the perfect one can be overwhelming. Here are some tips to help you choose:\n\n1. Determine Your Needs: Consider factors like screen size, camera quality, and battery life based on how you'll use your iPhone.\n2. Compare Features: Compare features such as Face ID, storage capacity, and processor performance across different models.\n3. Set a Budget: Decide how much you're willing to spend and choose a model that offers the best value for your money.\n4. Consider Refurbished Options: Save money by considering refurbished iPhones, which are certified to meet Apple's quality standards.\n5. Check Carrier Deals: Look for deals and promotions from carriers that may offer discounts or incentives with a new iPhone purchase.\n\nBy following these tips, you'll be able to choose the right iPhone model that meets your needs and fits your budget!",
+            "excerpt": "Find the perfect iPhone model with these helpful tips.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "iphone-buying-tips-choose-right-model"
+        },
+        {
+            "id": 3,
+            "title": "Essential Accessories for Your New iPhone or MacBook",
+            "content": "Enhance your iPhone or MacBook experience with these essential accessories:\n\n1. iPhone Case: Protect your iPhone from scratches and drops with a durable case that reflects your style.\n2. MacBook Sleeve: Keep your MacBook safe and stylish with a sleek sleeve or carrying case.\n3. Wireless Earbuds: Enjoy wireless freedom with Bluetooth earbuds for listening to music, making calls, and more.\n4. External Hard Drive: Expand your MacBook's storage capacity with an external hard drive for storing files, photos, and videos.\n5. Screen Protector: Prevent scratches and smudges on your iPhone or MacBook screen with a high-quality screen protector.\n\nInvesting in these accessories will not only enhance the functionality of your devices but also protect them for years to come. Shop now and take your iPhone or MacBook to the next level!",
+            "excerpt": "Enhance your iPhone or MacBook experience with these essential accessories.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "essential-accessories-iphone-macbook"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "MacBook Air",
+            "description": "The MacBook Air is thin, light, and durable enough to take everywhere you go - and powerful enough to do everything once you get there. With up to 18 hours of battery life, it's your perfectly portable, do-it-all notebook.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "macbook-air",
+            "price": 999.99,
+            "stock": 50
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "description": "The MacBook Pro elevates the notebook to a whole new level of performance and portability. With a stunning Retina display, advanced processors, high-performance graphics, and blazing-fast SSD storage, it's built for creativity on an epic scale.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "macbook-pro",
+            "price": 1299.99,
+            "stock": 40
+        },
+        {
+            "id": 3,
+            "name": "iPhone",
+            "description": "Experience the power and simplicity of iPhone. With a sleek design, advanced cameras, and incredible performance, iPhone delivers an unparalleled smartphone experience. Whether you're capturing memories, staying connected, or getting things done, iPhone is there for you.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "iphone",
+            "price": 699.99,
+            "stock": 100
+        },
+        {
+            "id": 4,
+            "name": "Lenovo ThinkPad",
+            "description": "The Lenovo ThinkPad is a powerhouse of productivity, featuring robust performance, legendary durability, and unmatched security. With cutting-edge technology and innovation, it's the ultimate business laptop for professionals who demand the best.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "lenovo-thinkpad",
+            "price": 899.99,
+            "stock": 30
+        },
+        {
+            "id": 5,
+            "name": "Samsung Galaxy",
+            "description": "Discover the next generation of Samsung phones, designed to elevate your mobile experience. With stunning displays, powerful cameras, and seamless performance, Samsung phones redefine what's possible in the world of smartphones.",
+            "thumbnailUrl": "https://placehold.co/200",
+            "slug": "samsung-phone",
+            "price": 799.99,
+            "stock": 60
+        }
+    ]
+}
